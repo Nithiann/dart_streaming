@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323337862734",
+    "project_id": "streaming-dart",
+    "storage_bucket": "streaming-dart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323337862734:android:d3b41cd439ab943126cd1f",
+        "android_client_info": {
+          "package_name": "com.example.streaming_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323337862734-tavp780v61d5248e7nt33rsj7hn6rmt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxRRHvMJgQ3ybENnQfVvOHqtCuhQfjiKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323337862734-tavp780v61d5248e7nt33rsj7hn6rmt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
